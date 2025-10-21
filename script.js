@@ -109,16 +109,19 @@ function vaiAlProssimoRound() {
     document.getElementById('descrizione-partita').textContent = goalCorrente.partita;
     document.getElementById('punteggio-totale').textContent = punteggioTotale;
     
-    // Resetta input e pulsanti
-    document.getElementById('stima-input').value = '';
-    document.getElementById('stima-input').disabled = false;
-    document.getElementById('btn-verifica').style.display = 'block'; 
-    document.getElementById('btn-next').style.display = 'none'; 
-    document.getElementById('risultato-feedback').style.display = 'none';
-    document.getElementById('btn-next').textContent = "Next"; 
+  document.getElementById('stima-input').value = '';
+    document.getElementById('stima-input').style.display = 'block'; 
+    document.getElementById('stima-input').disabled = false;
+    document.getElementById('btn-verifica').style.display = 'block'; 
+    document.getElementById('risultato-feedback').style.display = 'none';
+
+    // Nascondi il pulsante Next, resetta il testo e rimuovi la classe full-width
+    const btnNext = document.getElementById('btn-next');
+    btnNext.style.display = 'none'; 
+    btnNext.textContent = "Next"; 
+    btnNext.classList.remove('full-width-action');
 }
-
-
+ 
 /**
  * 4. Gestisce il click su "Indovina".
  */
@@ -163,15 +166,18 @@ function mostraRisultatoFinale() {
     document.getElementById('descrizione-partita').textContent = `Partita conclusa! Complimenti!`;
     document.getElementById('round-counter').textContent = "GIOCO TERMINATO";
     
-    document.getElementById('btn-next').textContent = "GIOCA ANCORA";
-    document.getElementById('btn-next').onclick = iniziaGioco; 
-    document.getElementById('btn-next').style.display = 'block';
-    document.getElementById('btn-verifica').style.display = 'none';
+   const btnNext = document.getElementById('btn-next');
+    btnNext.textContent = "GIOCA ANCORA";
+    btnNext.onclick = iniziaGioco; 
+    btnNext.style.display = 'block';
+    btnNext.classList.add('full-width-action'); // Riporta il pulsante a larghezza piena
+
+    document.getElementById('btn-verifica').style.display = 'none';
     document.getElementById('risultato-feedback').style.display = 'none';
-    
+    document.getElementById('stima-input').style.display = 'none';
     partitaInCorso = false;
     // Rimuove l'immagine per non lasciare l'ultima del round
-    document.getElementById('immagine-goal').src = ""; 
+    document.getElementById('immagine-goal').src = "tempo.jpg"; 
 }
 
 
