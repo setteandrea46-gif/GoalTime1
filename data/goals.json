@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "partita": "Ronaldo Rovesciata (Goal Esotico)",
+    "partita": "Cristiano Ronaldo – Juventus vs Real Madrid 2018 (rovesciata)",
     "immagine": "ronaldorovescita.jpg", 
     "minutoEsatto": 64
   },
   {
     "id": 2,
-    "partita": "Ibrahimović Rovesciata (Goal Spettacolare)",
-    "immagine": "ibra rovesciata.jpeg", 
-    "minutoEsatto": 91
+    "partita": "Zlatan Ibrahimović – PSG vs Bastia 2013 (tacco volante)",
+    "immagine": "ibra rovesciata.jpg", 
+    "minutoEsatto": 90
   },
   {
     "id": 3,
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "partita": "Roberto Carlos – Punizione contro la Francia (Tournoi de France, 1997)",
-    "immagine": "robertocarlos.jpg", 
+    "immagine": "roberto-carlos-punizione-brasile-francia-3.jpg", 
     "minutoEsatto": 21
   },
   {
@@ -52,5 +52,395 @@
     "partita": "Marco Van Basten – Finale Euro ’88 (Olanda vs URSS, 1988)",
     "immagine": "vanbasten.jpg", 
     "minutoEsatto": 54
+  },
+  {
+    "id": 10,
+    "partita": "Alessandro Del Piero – Juventus vs Fiorentina 1994",
+    "immagine": "Del_Piero_Juventus-Fiorentina_1994.jpg", 
+    "minutoEsatto": 88
+  },
+  {
+    "id": 11,
+    "partita": "Roberto Baggio – Brescia vs Juventus 2001",
+    "immagine": "Roberto Baggio – Brescia vs Juventus 2001.jpg", 
+    "minutoEsatto": 84
+  },
+  {
+    "id": 12,
+    "partita": "Francesco Totti – Roma vs Sampdoria 2006 (cucchiaio)",
+    "immagine": "Francesco Totti – Roma vs Sampdoria 2006 (cucchiaio).jpg", 
+    "minutoEsatto": 69
+  },
+  {
+    "id": 13,
+    "partita": "Pavel Nedvěd – Lazio vs Inter 1999",
+    "immagine": "Pavel Nedvěd – Lazio vs Inter 1999.jpg", 
+    "minutoEsatto": 73
+  },
+  {
+    "id": 14,
+    "partita": "George Weah – Milan vs Verona 1996 (corsa da area ad area)",
+    "immagine": "George Weah – Milan vs Verona 1996.jpg", 
+    "minutoEsatto": 85
+  },
+  {
+    "id": 15,
+    "partita": "Antonio Di Natale – Udinese vs Napoli 2011",
+    "immagine": "Antonio Di Natale – Udinese vs Napoli 2011.jpg", 
+    "minutoEsatto": 62
+  },
+  {
+    "id": 16,
+    "partita": "Andrea Pirlo – Milan vs Parma 2001 (punizione)",
+    "immagine": "Andrea Pirlo – Milan vs Parma 2001 (punizione).jpg", 
+    "minutoEsatto": 35
+  },
+  {
+    "id": 17,
+    "partita": "Hernán Crespo – Lazio vs Parma 2000",
+    "immagine": "Hernán Crespo – Lazio vs Parma 2000.jpg", 
+    "minutoEsatto": 58
+  },
+  {
+    "id": 18,
+    "partita": "Kaka – Milan vs Manchester United 2007 (Champions, ma simbolo Milan)",
+    "immagine": "Kaka – Milan vs Manchester United 2007.jpg", 
+    "minutoEsatto": 37
+  },
+  {
+    "id": 19,
+    "partita": "Diego Milito – Inter vs Bayern Monaco 2010 (finale Champions)",
+    "immagine": "Diego Milito – Inter vs Bayern Monaco 2010 (finale Champions).jpg", 
+    "minutoEsatto": 70
+  },
+  {
+    "id": 20,
+    "partita": "Wayne Rooney – Manchester United vs Manchester City 2011 (rovesciata)",
+    "immagine": "Wayne Rooney – Manchester United vs Manchester City 2011 (rovesciata).jpg", 
+    "minutoEsatto": 78
+  },
+  {
+    "id": 21,
+    "partita": "Thierry Henry – Arsenal vs Manchester United 2000 (controllo e volée)",
+    "immagine": "Thierry Henry – Arsenal vs Manchester United 2000.jpg", 
+    "minutoEsatto": 48
+  },
+  {
+    "id": 22,
+    "partita": "Dennis Bergkamp – Arsenal vs Newcastle 2002",
+    "immagine": "Dennis Bergkamp – Arsenal vs Newcastle 2002.jpg", 
+    "minutoEsatto": 11
+  },
+  {
+    "id": 23,
+    "partita": "Steven Gerrard – Liverpool vs West Ham (FA Cup 2006)",
+    "immagine": "Steven Gerrard – Liverpool vs West Ham (FA Cup 2006).jpg", 
+    "minutoEsatto": 91
+  },
+  {
+    "id": 24,
+    "partita": "Cristiano Ronaldo – Manchester United vs Portsmouth 2008 (punizione)",
+    "immagine": "Cristiano Ronaldo – Manchester United vs Portsmouth 2008.jpg", 
+    "minutoEsatto": 30
+  },
+  {
+    "id": 25,
+    "partita": "Jamie Vardy – Leicester vs Liverpool 2016 (tiro al volo)",
+    "immagine": "Jamie Vardy – Leicester vs Liverpool 2016 (tiro al volo).jpg", 
+    "minutoEsatto": 61
+  },
+  {
+    "id": 26,
+    "partita": "Sergio Agüero – Manchester City vs QPR 2012",
+    "immagine": "Sergio Agüero – Manchester City vs QPR 2012.jpg", 
+    "minutoEsatto": 94
+  },
+  {
+    "id": 27,
+    "partita": "Gareth Bale – Tottenham vs West Ham 2013",
+    "immagine": "Gareth Bale – Tottenham vs West Ham 2013.jpg", 
+    "minutoEsatto": 89
+  },
+  {
+    "id": 28,
+    "partita": "Mo Salah – Liverpool vs Chelsea 2019",
+    "immagine": "Mo Salah – Liverpool vs Chelsea 2019.jpg", 
+    "minutoEsatto": 53
+  },
+  {
+    "id": 29,
+    "partita": "Eric Cantona – Manchester United vs Sunderland 1996",
+    "immagine": "Eric Cantona – Manchester United vs Sunderland 1996.jpg", 
+    "minutoEsatto": 82
+  },
+  {
+    "id": 30,
+    "partita": "Robin van Persie – Manchester United vs Aston Villa 2013 (volée)",
+    "immagine": "Robin van Persie – Manchester United vs Aston Villa 2013 (volée).jpg", 
+    "minutoEsatto": 33
+  },
+  {
+    "id": 31,
+    "partita": "Neymar – Barcellona vs Villarreal 2015 (sombrero e girata)",
+    "immagine": "Neymar – Barcellona vs Villarreal 2015.jpg", 
+    "minutoEsatto": 78
+  },
+  {
+    "id": 32,
+    "partita": "Luis Suárez – Barcellona vs PSG 2015 (dribbling doppio tunnel)",
+    "immagine": "Luis Suárez – Barcellona vs PSG 2015 (dribbling doppio tunnel).jpg", 
+    "minutoEsatto": 80
+  },
+  {
+    "id": 33,
+    "partita": "Xavi Hernández – Barcellona vs Real Madrid 2009",
+    "immagine": "Xavi Hernández – Barcellona vs Real Madrid 2009.jpg", 
+    "minutoEsatto": 65
+  },
+  {
+    "id": 34,
+    "partita": "Andres Iniesta – Barcellona vs Chelsea 2009 (Champions, sem.)",
+    "immagine": "Andres Iniesta – Barcellona vs Chelsea 2009 (Champions, sem.).jpg", 
+    "minutoEsatto": 93
+  },
+  {
+    "id": 35,
+    "partita": "Ronaldinho – Real Madrid vs Barcellona 2005",
+    "immagine": "Ronaldinho – Real Madrid vs Barcellona 2005.jpg", 
+    "minutoEsatto": 77
+  },
+  {
+    "id": 36,
+    "partita": "Eden Hazard – Lille vs Marseille 2011",
+    "immagine": "Eden Hazard – Lille vs Marseille 2011.jpg", 
+    "minutoEsatto": 68
+  },
+  {
+    "id": 37,
+    "partita": "Ronaldinho – PSG vs Guingamp 2003",
+    "immagine": "Ronaldinho – PSG vs Guingamp 2003.jpg", 
+    "minutoEsatto": 66
+  },
+  {
+    "id": 38,
+    "partita": "Angel Di María – PSG vs Nizza 2019",
+    "immagine": "Angel Di María – PSG vs Nizza 2019.jpg", 
+    "minutoEsatto": 81
+  },
+  {
+    "id": 39,
+    "partita": "Neymar – PSG vs Strasbourg 2020",
+    "immagine": "Neymar – PSG vs Strasbourg 2020.jpg", 
+    "minutoEsatto": 88
+  },
+  {
+    "id": 40,
+    "partita": "Pauleta – PSG vs Marsiglia 2004",
+    "immagine": "Pauleta – PSG vs Marsiglia 2004.jpg", 
+    "minutoEsatto": 41
+  },
+  {
+    "id": 41,
+    "partita": "Kevin De Bruyne – Wolfsburg vs Bayern 2015",
+    "immagine": "Kevin De Bruyne – Wolfsburg vs Bayern 2015.jpg", 
+    "minutoEsatto": 73
+  },
+  {
+    "id": 42,
+    "partita": "Thomas Müller – Bayern Monaco vs Barcellona 2015",
+    "immagine": "Thomas Müller – Bayern Monaco vs Barcellona 2015, min 76.jpg", 
+    "minutoEsatto": 76
+  },
+  {
+    "id": 43,
+    "partita": "Erling Haaland – Borussia Dortmund vs PSG 2020",
+    "immagine": "Erling Haaland – Borussia Dortmund vs PSG 2020.jpg", 
+    "minutoEsatto": 77
+  },
+  {
+    "id": 44,
+    "partita": "Mario Götze – Germania vs Argentina 2014 (Mondiale, finale)",
+    "immagine": "Mario Götze – Germania vs Argentina 2014 (Mondiale, finale).jpg", 
+    "minutoEsatto": 113
+  },
+  {
+    "id": 45,
+    "partita": "Raúl – Real Madrid vs Vasco da Gama 1998 (Intercontinentale)",
+    "immagine": "Raúl – Real Madrid vs Vasco da Gama 1998 (Intercontinentale).jpg", 
+    "minutoEsatto": 83
+  },
+  {
+    "id": 46,
+    "partita": "Robin van Persie – Olanda vs Spagna 2014 (tuffo di testa)",
+    "immagine": "Robin van Persie – Olanda vs Spagna 2014.jpg", 
+    "minutoEsatto": 44
+  },
+  {
+    "id": 47,
+    "partita": "James Rodríguez – Colombia vs Uruguay 2014",
+    "immagine": "James Rodríguez – Colombia vs Uruguay 2014.jpg", 
+    "minutoEsatto": 28
+  },
+  {
+    "id": 48,
+    "partita": "Miroslav Klose – Germania vs Brasile 2014",
+    "immagine": "Miroslav Klose – Germania vs Brasile 2014.jpg", 
+    "minutoEsatto": 23
+  },
+  {
+    "id": 49,
+    "partita": "Benjamin Pavard – Francia vs Argentina 2018",
+    "immagine": "Benjamin Pavard – Francia vs Argentina 2018.jpg", 
+    "minutoEsatto": 57
+  },
+  {
+    "id": 50,
+    "partita": "Emmanuel Petit – Francia vs Brasile 1998 (finale)",
+    "immagine": "Emmanuel Petit – Francia vs Brasile 1998 (finale).jpg", 
+    "minutoEsatto": 93
+  },
+  {
+    "id": 51,
+    "partita": "Andrés Iniesta – Spagna vs Olanda 2010 (finale)",
+    "immagine": "Andrés Iniesta – Spagna vs Olanda 2010.jpg", 
+    "minutoEsatto": 116
+  },
+  {
+    "id": 52,
+    "partita": "Didier Drogba – Chelsea vs Bayern 2012 (finale)",
+    "immagine": "Didier Drogba – Chelsea vs Bayern 2012 (finale).jpg", 
+    "minutoEsatto": 88
+  },
+  {
+    "id": 53,
+    "partita": "Karim Benzema – Real Madrid vs Chelsea 2022",
+    "immagine": "Karim Benzema – Real Madrid vs Chelsea 2022.jpg", 
+    "minutoEsatto": 96
+  },
+  {
+    "id": 54,
+    "partita": "Lionel Messi – Barcellona vs Real Madrid 2011 (semifinale)",
+    "immagine": "Lionel Messi – Barcellona vs Real Madrid 2011.jpg", 
+    "minutoEsatto": 87
+  },
+  {
+    "id": 55,
+    "partita": "Fernando Torres – Chelsea vs Barcellona 2012",
+    "immagine": "Fernando Torres – Chelsea vs Barcellona 2012.jpg", 
+    "minutoEsatto": 90
+  },
+  {
+    "id": 56,
+    "partita": "Andriy Shevchenko – Milan vs Inter 2003",
+    "immagine": "Andriy Shevchenko – Milan vs Inter 2003.jpg", 
+    "minutoEsatto": 42
+  },
+  {
+    "id": 57,
+    "partita": "Steven Gerrard – Liverpool vs Olympiakos 2004",
+    "immagine": "Steven Gerrard – Liverpool vs Olympiakos 2004.jpg", 
+    "minutoEsatto": 86
+  },
+  {
+    "id": 58,
+    "partita": "Marco Materazzi – Italia vs Francia 2006 (Mondiali, 2006)",
+    "immagine": "Marco Materazzi – Italia vs Francia (Mondiali, 2006).jpg", 
+    "minutoEsatto": 19
+  },
+  {
+    "id": 59,
+    "partita": "Francesco Totti – Roma vs Sampdoria 2006 (Serie A)",
+    "immagine": "Francesco Totti – Roma vs Sampdoria (Serie A, 2006).jpg", 
+    "minutoEsatto": 69
+  },
+  {
+    "id": 60,
+    "partita": "Sergio Ramos – Real Madrid vs Atlético Madrid 2014 (Champions League, 2014)",
+    "immagine": "Sergio Ramos – Real Madrid vs Atlético Madrid (Champions League, 2014).jpg", 
+    "minutoEsatto": 93
+  },
+  {
+    "id": 61,
+    "partita": "Kostas Manolas – Roma vs Barcellona 2018 (Champions League, 2018)",
+    "immagine": "Kostas Manolas – Roma vs Barcellona (Champions League, 2018).jpg", 
+    "minutoEsatto": 82
+  },
+  {
+    "id": 62,
+    "partita": "Del Piero – Italia vs Germania 2006",
+    "immagine": "Del Piero – Italia vs Germania 2006.jpg", 
+    "minutoEsatto": 121
+  },
+  {
+    "id": 63,
+    "partita": "Neymar – Brasile vs Croazia 2014",
+    "immagine": "Neymar – Brasile vs Croazia 2014.jpg", 
+    "minutoEsatto": 29
+  },
+  {
+    "id": 64,
+    "partita": "Balotelli – Italia vs Germania 2012",
+    "immagine": "Balotelli – Italia vs Germania 2012.jpg", 
+    "minutoEsatto": 36
+  },
+  {
+    "id": 65,
+    "partita": "Frank Lampard – Chelsea vs Bolton 2005",
+    "immagine": "Frank Lampard – Chelsea vs Bolton 2005.jpg", 
+    "minutoEsatto": 79
+  },
+  {
+    "id": 66,
+    "partita": "Nicolò Barella – Inter vs Juventus 2021",
+    "immagine": "Nicolò Barella – Inter vs Juventus 2021.jpg", 
+    "minutoEsatto": 51
+  },
+  {
+    "id": 67,
+    "partita": "Fabio Quagliarella – Sampdoria vs Napoli 2018",
+    "immagine": "Fabio Quagliarella – Sampdoria vs Napoli 2018.jpg", 
+    "minutoEsatto": 75
+  },
+  {
+    "id": 68,
+    "partita": "Hakim Ziyech – Ajax vs Tottenham 2019",
+    "immagine": "Hakim Ziyech – Ajax vs Tottenham 2019.jpg", 
+    "minutoEsatto": 35
+  },
+  {
+    "id": 69,
+    "partita": "Dusan Tadić – Ajax vs Real Madrid 2019",
+    "immagine": "Dusan Tadić – Ajax vs Real Madrid 2019.jpg", 
+    "minutoEsatto": 62
+  },
+  {
+    "id": 70,
+    "partita": "Gareth Bale – Real Madrid vs Liverpool 2018 (rovesciata)",
+    "immagine": "Gareth Bale – Real Madrid vs Liverpool 2018 (rovesciata).jpg", 
+    "minutoEsatto": 64
+  },
+  {
+    "id": 71,
+    "partita": "Diego Milito – Inter vs Siena 2010 (scudetto)",
+    "immagine": "Diego Milito – Inter vs Siena 2010 (scudetto).jpg", 
+    "minutoEsatto": 57
+  },
+  {
+    "id": 72,
+    "partita": "Paulo Dybala – Juventus vs Lazio 2017",
+    "immagine": "Paulo Dybala – Juventus vs Lazio 2017.jpg", 
+    "minutoEsatto": 85
+  },
+  {
+    "id": 73,
+    "partita": "Dries Mertens – Napoli vs Torino 2017 (cucchiaio)",
+    "immagine": "Dries Mertens – Napoli vs Torino 2017 (cucchiaio).jpg", 
+    "minutoEsatto": 78
+  },
+  {
+    "id": 74,
+    "partita": "Antonio Cassano – Bari vs Inter 1999",
+    "immagine": "Antonio Cassano – Bari vs Inter 1999.jpg", 
+    "minutoEsatto": 79
   }
 ]
