@@ -106,14 +106,18 @@ body {
 
 /* Pulsante "Next" e "INIZIA" */
 #btn-next {
-    background-color: #000; /* Nero come nell'esempio */
-    color: white;
-    width: 100%; /* Occupano tutta la larghezza quando sono attivi da soli */
-    padding: 15px 0; /* Un po' più grandi per enfasi */
-    margin-top: 15px;
+background-color: #000; /* Nero come nell'esempio */
+ color: white;
 }
 #btn-next:hover {
-    background-color: #333;
+ background-color: #333;
+}
+
+/* Nuova classe per lo stato a larghezza piena */
+.full-width-action {
+width: 100%;
+ padding: 15px 0;
+ margin-top: 15px;
 }
 
 /* --- FEEDBACK E RISULTATI --- */
@@ -141,3 +145,5 @@ body {
 #punteggio-totale {
     color: #cc0000; /* Colore rosso per il punteggio totale */
 }
+
+
